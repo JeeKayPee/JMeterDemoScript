@@ -29,12 +29,12 @@ Select the checkbox for agree and click on next
 - Enter dummy information for First name, Last name, E-mail address, Shop password and Re-type to confirm
 - Click on Next
 
-Database server address - some-mysql
-Database password - admin
-Click on "Test your database connection now"
-Click on Attempt to create the db automatically
-	>>Database is created
-Click on Next
+- Database server address - some-mysql
+- Database password - admin
+- Click on "Test your database connection now"
+- Click on Attempt to create the db automatically (Database is created)
+- Click on Next
+
 
 The wizard will install the app
 
@@ -43,11 +43,11 @@ Launch a new browser tab - IP:8080 - the website will be running
 
 Download and install JMeter on local machine or use a Windows 10 Server machine (hosted on AWS EC2)
 
-Download Jmeter from the JMeter website
-Extract the zip file
-Browse to apache-jmeter-5.4.3/bin
-Windows - double click on jmeter.bat
-Mac/Linux - sh jmeter.sh
+- Download Jmeter from the JMeter website
+- Extract the zip file
+- Browse to apache-jmeter-5.4.3/bin
+- Windows - double click on jmeter.bat
+- Mac/Linux - sh jmeter.sh
 
 JMeter GUI will be displayed
 
