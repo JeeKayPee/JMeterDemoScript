@@ -22,12 +22,12 @@ This will launch the prestashop installer
 7. Click on Next
 Select the checkbox for agree and click on next
 
-Shop name - whatever
-Main Activity - Fashion and accessories
-Country - United States (Hard coded)
-Shop timezone - US/Eastern (Hard coded)
-Enter dummy information for First name, Last name, E-mail address, Shop password and Re-type to confirm
-Click on Next
+- Shop name - whatever
+- Main Activity - Fashion and accessories
+- Country - United States (Hard coded)
+- Shop timezone - US/Eastern (Hard coded)
+- Enter dummy information for First name, Last name, E-mail address, Shop password and Re-type to confirm
+- Click on Next
 
 Database server address - some-mysql
 Database password - admin
